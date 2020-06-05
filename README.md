@@ -1,4 +1,4 @@
-# Read Me
+# ReadMe
 Welcome to my Data Science Project: 
 
 
