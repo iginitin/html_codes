@@ -1,0 +1,81 @@
+*{
+font-family:sans-serif;
+list-style:none;
+padding:0;
+}
+
+.skills{
+width:500px;
+margin:60px auto;
+color:black;
+}
+.skills li{ 
+margin:20px 0;
+
+}
+.bar{
+background:#353b48;
+display:block;
+height:2px;
+bolder:1px solid rgba(0,0,0,0.3);
+border-radius: 3px;
+overflow:hidden;
+box-shadow:0 0 10px #2187e7b3;
+}
+.bar span{
+height: 2px;
+float:left;
+background:#2187e7;
+}
+.ML{
+width:70%;
+animation: ML 2s;
+}
+
+.AL{
+width:50%;
+animation: AI 2s;
+}
+
+.P{
+width:70%;
+animation: P 2s;
+}
+
+.SQL{
+width:80%;
+animation: SQL 2s;
+}
+
+.DA{
+width:60%;
+animation: DA 2s;
+}
+
+@keyframes ML{
+0%{
+width:0%;
+}
+}
+
+@keyframes AI{
+0%{
+width:0%;
+}
+}
+@keyframes P{
+0%{
+width:0%;
+}
+}
+
+@keyframes SQL{
+0%{
+width:0%;
+}
+}
+@keyframes DA{
+0%{
+width:0%;
+}
+}
