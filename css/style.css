@@ -75,3 +75,35 @@ ul li a:hover{
 	  transform: translate(-50%, -50%)
 }
 
+/* about section*/
+.container_1 {
+  position: absolute;
+  top:90%;
+  width: 1000px;
+  margin-left: 10%;
+	box-shadow:1px 1px 2px 2px black;
+ -- width: 900px;
+ height: 400px;
+  padding: 50px;
+ -- border: 1px solid red;
+}
+
+.container_2{
+	top:10%;
+	position: absolute;
+	width: 400px;
+}
+
+.container_3{
+	top:115%;
+	position: absolute;
+	width: 700px;
+}
+
+.container_4{
+	position: absolute;
+	width: 400px;
+	margin-left: 50%;
+	top:10%;
+}
+	
