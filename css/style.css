@@ -8,9 +8,10 @@ html {
 }
 header{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../black.jpg);
-	height:80vh;
+	height:480px;
 	background-size: cover;
 	background-position: center;
+	--height:80vh;
 }
 
 
