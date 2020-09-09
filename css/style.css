@@ -77,21 +77,22 @@ ul li a:hover{
 
 /* about section*/
 .container_1 {
-  position: absolute;
-  top:90%;
-  width: 70%;
-  margin-left: 10%;
-	box-shadow:1px 1px 2px 2px black;
+-  position: absolute;
+ - top:90%;
+  -width: 70%;
+  -margin-left: 10%;
+	-box-shadow:1px 1px 2px 2px black;
  -- width: 900px;
- height: 50%;
-  padding: 50px;
+ -height: 50%;
+  -padding: 50px;
  -- border: 1px solid red;
 }
 
 .container_2{
-	top:10%;
+	top:90%;
 	position: absolute;
 	width: 40%;
+	left:10%
 }
 
 .container_3{
