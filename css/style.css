@@ -100,10 +100,12 @@ margin-bottom: 10%;
 
 .vertical-flex-container {
   display: flex;
-  flex-flow: column nowrap;
-  align-items: center;
+  flex-flow: row nowrap;
+ align-items: center;
   background: #808080;
   margin: 5px;
+  left:300px;
+  justify-content: center;
   }
 
 img {
