@@ -99,13 +99,15 @@ margin-bottom: 3%;
 
 
 img {
-  padding: 5px;
+  padding: 10px;
 }
 
 .container_port {
 	text-align: center;
 	margin-top: 0;
- background-color: #44bcd8;
+ --background-color: #195e83;
+ background-color: #18bb9c;
+ 
 }
 
   
