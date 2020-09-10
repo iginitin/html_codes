@@ -98,9 +98,9 @@ margin-bottom: 10%;
 }
 
 
-.vertical-flex-container {
+.vertical-flex {
   display: flex;
-  flex-flow: row nowrap;
+  flex-flow: column nowrap;
  align-items: center;
   background: #808080;
   margin: 5px;
@@ -112,5 +112,14 @@ img {
   padding: 5px;
 }
 
+.vertical-flex-container {
+	position:absolute;
+	--border-radius: 50%;	
+	width:1000px;
+	top:170%;
+	left:50%;
+	
+	  transform: translate(-50%, -50%)
+}
 
 	
