@@ -120,4 +120,18 @@ img {
  --margin-right: 20%;
 }
 
+
+
+
+.profile_pic_2 img{
+	position:absolute;
+	--border-radius: 50%;	
+	width:140px;
+	top:210%;
+	left:50%;
+	box-shadow:1px 1px 5px 5px white;
+	  transform: translate(-50%, -50%)
+}
+
+
 	
