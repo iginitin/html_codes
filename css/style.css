@@ -153,6 +153,30 @@ img {
  
 }
 
+
+/* about highlights*/
+
+div.container_high {
+text-align: center;
+margin-left: 20%;
+ margin-right: 20%;
+margin-top: 0;
+margin-bottom: 10%;
+   
+}
+
+
+/* about contact*/
+.container_contact {
+	text-align: center;
+	margin-top: 0;
+ background-color: #2d3e50;
+ --background-color: #18bb9c;
+ color: #ffff;
+ 
+ 
+}
+
   
 
 
