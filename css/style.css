@@ -113,8 +113,8 @@ img {
 }
 
 .vertical-flex-container {
-	text-align: center;
-	
+	--text-align: center;
+	position: center;
 }
 
 	
