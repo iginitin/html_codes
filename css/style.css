@@ -113,12 +113,13 @@ img {
 }
 
 .vertical-flex-container {
-	position:absolute;
-	--border-radius: 50%;	
+	position:relative;
+	
 	width:70%;
+	-margin-left:50%;
 	top:170%;
 	left:50%;
-	
+	float: center;
 	  transform: translate(-50%, -50%)
 }
 
