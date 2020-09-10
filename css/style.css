@@ -98,38 +98,17 @@ margin-bottom: 3%;
 }
 
 
-.vertical-flex {
-  display: flex;
-  flex-flow: column nowrap;
- align-items: center;
-  -background: #808080;
-  -margin: 5px;
-  -left:30%;
-  -justify-content: center;
-  }
-
 img {
   padding: 5px;
 }
 
-.vertical-flex-container {
+.container_port {
 	text-align: center;
 	margin-top: 0;
- 
+ background-color: #44bcd8;
 }
 
+  
 
 
 
-.profile_pic_2 img{
-	position:absolute;
-	--border-radius: 50%;	
-	width:140px;
-	top:210%;
-	left:50%;
-	box-shadow:1px 1px 5px 5px white;
-	  transform: translate(-50%, -50%)
-}
-
-
-	
