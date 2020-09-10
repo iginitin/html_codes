@@ -102,10 +102,10 @@ margin-bottom: 10%;
   display: flex;
   flex-flow: column nowrap;
  align-items: center;
-  background: #808080;
-  margin: 5px;
-  left:300px;
-  justify-content: center;
+  -background: #808080;
+  -margin: 5px;
+  -left:30%;
+  -justify-content: center;
   }
 
 img {
@@ -116,8 +116,8 @@ img {
 	position:relative;
 	
 	width:70%;
-	-margin-left:50%;
-	--top:170%;
+	margin-left:0;
+	top:170%;
 	left:50%;
 	float: center;
 	  transform: translate(-50%, -50%)
