@@ -115,7 +115,7 @@ img {
 .vertical-flex-container {
 	position:absolute;
 	--border-radius: 50%;	
-	width:1000px;
+	width:70%;
 	top:170%;
 	left:50%;
 	
